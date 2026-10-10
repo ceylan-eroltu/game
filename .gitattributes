@@ -1,0 +1,33 @@
+# Unity projesi icin satir sonu ayarlari
+* text=auto eol=lf
+
+# Binary dosyalar (dokunma)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.psd binary
+*.fbx binary
+*.fbx.meta binary
+*.unity binary
+*.asset binary
+*.prefab binary
+*.cubemap binary
+*.unitypackage binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.a binary
+*.jar binary
+*.apk binary
+*.aab binary
+*.exe binary
+*.zip binary
+*.7z binary
+*.gz binary
+*.tar binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.mp4 binary
+*.mov binary
